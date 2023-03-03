@@ -1,4 +1,5 @@
 @font-face {
     font-family:'Inter';
-    src: local('Inter');
+    src: local('Inter'),
+    url(https://rsms.me/inter/inter.css)
 }
