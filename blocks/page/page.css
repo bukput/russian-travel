@@ -1,7 +1,5 @@
-@font-face {
-    font-family:'Inter';
-    src: local('Inter'),
-    url(/fonts/Inter-V.ttf);
-    font-weight: normal ;
-    font-style: normal;
+.page{
+    font-family:"Inter";
+    color:white;
+    background-color: #181A19;
 }
