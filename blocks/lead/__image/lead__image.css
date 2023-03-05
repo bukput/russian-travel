@@ -7,6 +7,16 @@
     max-height: 615px;
     align-self: center;
 }
+@media screen and (max-width:768px) {
+    .lead__image{
+        padding:0;
+        margin:0;
+        margin-top:64px;
+        width:100%;
+        object-fit: cover;
+        align-self: center;
+    }
+}
 @media screen and (max-width:320px) {
     .lead__image{
         max-width: 320px;
