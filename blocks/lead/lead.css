@@ -5,3 +5,14 @@
     width:100%;
     min-height:406px;
 }
+@media screen and (max-width:768px){
+    .lead{
+        display: flex;
+        flex-direction: column;
+        padding-top:48px;
+        padding-left: 2px;
+        padding-right: 2px;
+        width:100%;
+        min-height:406px;
+    }
+}
