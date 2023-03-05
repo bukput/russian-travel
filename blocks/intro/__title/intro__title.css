@@ -10,3 +10,45 @@
     max-width: 690px;
     max-height: 58px;
 }
+@media screen and (max-width:1024px) {
+    .intro__title{
+        padding:0;
+        margin:0;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 54px;
+        line-height: 58px;
+        color: #FFFFFF;
+        max-width: 690px;
+        max-height: 58px;
+    }
+}
+@media screen and (max-width:768px) {
+    .intro__title{
+        padding:0;
+        margin:0;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 54px;
+        line-height: 58px;
+        color: #FFFFFF;
+        max-width: 720px;
+        max-height: 58px;
+    }
+}
+@media screen and (max-width:768px) {
+    .intro__title{
+        padding:0;
+        margin:0;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 35px;
+        color: #FFFFFF;
+        max-width:288px;
+        max-height:70px;
+    }
+}
