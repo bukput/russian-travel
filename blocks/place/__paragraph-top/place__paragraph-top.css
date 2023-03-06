@@ -12,3 +12,19 @@
     color: #FFFFFF;
     grid-area: paragraph-top;
 }
+@media screen and (max-width:768px) {
+    .place__paragraph-top{
+        margin:0;
+        padding:0;
+        padding-top:8px;
+        max-width:352px;
+        max-height:182px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 163%;
+        color: #FFFFFF;
+        grid-area: paragraph-top;
+    }
+}

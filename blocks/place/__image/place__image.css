@@ -6,3 +6,13 @@
     max-height:460px;
     grid-area: image;
 }
+@media screen and (max-width:768px) {
+    .place__image{
+        margin:0;
+        padding:0;
+        margin-top:20px;
+        max-width:340px;
+        max-height:340px;
+        grid-area: image;
+    }
+}

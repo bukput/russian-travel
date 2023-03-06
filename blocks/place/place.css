@@ -23,3 +23,30 @@
     "image paragraph-top"
     "image paragraph-bottom";
 }
+@media screen and (max-width:768px) {
+    .place{
+        margin:0;
+        margin-top:73px;
+        padding:0;
+        display:grid;
+        gap:28px;
+        grid-template-columns: repeat(2,auto);
+        grid-template-rows: repeat(3,auto);
+        grid-template-areas:
+        "title website"
+        "image paragraph-top"
+        "image paragraph-bottom";
+    }
+    .place:first-child{
+        margin:0;
+        padding:0;
+        display:grid;
+        gap:28px;
+        grid-template-columns: repeat(2,auto);
+        grid-template-rows: repeat(3,auto);
+        grid-template-areas:
+        "title website"
+        "image paragraph-top"
+        "image paragraph-bottom";
+    }
+}
