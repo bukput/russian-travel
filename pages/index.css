@@ -23,3 +23,5 @@
 @import url(/blocks/website/website.css);
 @import url(/blocks/website/__url-heading/website__url-heading.css);
 @import url(/blocks/website/__link/website__link.css);
+@import url(/blocks/place/__paragraph-top/place__paragraph-top.css);
+@import url(/blocks/place/__paragraph-bottom/place__paragraph-bottom.css);
