@@ -25,3 +25,17 @@
         color: #FFFFFF;
     }
 }
+@media screen and (max-width:320px) {
+    .place__paragraph-bottom{
+        margin:0;
+        padding:0;
+        max-width:288px;
+        max-height:312px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 163%;
+        color: #FFFFFF;
+    }
+}
