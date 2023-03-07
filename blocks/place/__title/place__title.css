@@ -1,8 +1,8 @@
-.place__title{
-    margin:0;
-    padding:0;
-    max-width:460px;
-    max-height:152px;
+.place__title {
+    margin: 0;
+    padding: 0;
+    max-width: 460px;
+    max-height: 152px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 900;
@@ -11,12 +11,13 @@
     color: #FFFFFF;
     grid-area: title;
 }
+
 @media screen and (max-width:768px) {
-    .place__title{
-        margin:0;
-        padding:0;
-        max-width:340px;
-        max-height:92px;
+    .place__title {
+        margin: 0;
+        padding: 0;
+        max-width: 340px;
+        max-height: 92px;
         font-family: 'Inter';
         font-style: normal;
         font-weight: 900;
@@ -25,12 +26,13 @@
         color: #FFFFFF;
     }
 }
+
 @media screen and (max-width:320px) {
-    .place__title{
-        margin:0;
-        padding:0;
-        max-width:288px;
-        max-height:35px;
+    .place__title {
+        margin: 0;
+        padding: 0;
+        max-width: 288px;
+        max-height: 35px;
         font-family: 'Inter';
         font-style: normal;
         font-weight: 900;

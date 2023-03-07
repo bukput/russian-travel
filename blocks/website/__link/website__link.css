@@ -1,9 +1,9 @@
-.website__link{
-    margin:0;
-    padding:0;
-    max-width:456px;
-    max-height:22px;
-    margin-top:12px;
+.website__link {
+    margin: 0;
+    padding: 0;
+    max-width: 456px;
+    max-height: 22px;
+    margin-top: 12px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -11,9 +11,10 @@
     line-height: 22px;
     text-decoration-line: underline;
     color: #FFFFFF;
-    opacity:1;
+    opacity: 1;
     transition: opacity 0.4s ease;
 }
-.website__link:hover{
-    opacity:0.7;
+
+.website__link:hover {
+    opacity: 0.7;
 }

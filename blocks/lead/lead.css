@@ -1,49 +1,52 @@
-.lead{
+.lead {
     display: flex;
     flex-direction: column;
-    padding:0;
-    margin:0;
-    padding-top:56px;
-    padding-right:148px;
-    padding-left:148px;
+    padding: 0;
+    margin: 0;
+    padding-top: 56px;
+    padding-right: 148px;
+    padding-left: 148px;
     align-self: center;
-    max-width:1280px;
-    max-height:1005px;
+    max-width: 1280px;
+    max-height: 1005px;
 }
+
 @media screen and (max-width:1024px) {
-    .lead{
+    .lead {
         display: flex;
         flex-direction: column;
-        padding:0;
-        margin:0;
-        padding-top:48px;
-        padding-right:48px;
-        padding-left:48px;
+        padding: 0;
+        margin: 0;
+        padding-top: 48px;
+        padding-right: 48px;
+        padding-left: 48px;
         align-self: center;
-        max-width:928px;
-        max-height:962px;
+        max-width: 928px;
+        max-height: 962px;
     }
 }
-@media screen and (max-width:768px){
-    .lead{
+
+@media screen and (max-width:768px) {
+    .lead {
         display: flex;
         flex-direction: column;
-        padding:0;
-        margin:0;
-        padding-top:48px;
+        padding: 0;
+        margin: 0;
+        padding-top: 48px;
         align-self: center;
-        max-width:768px;
+        max-width: 768px;
         max-height: 862px;
     }
 }
-@media screen and (max-width:320px){
-    .lead{
+
+@media screen and (max-width:320px) {
+    .lead {
         display: flex;
         flex-direction: column;
-        padding-top:48px;
+        padding-top: 48px;
         padding-left: 2px;
         padding-right: 2px;
-        max-width:320px;
-        max-height:406px;
+        max-width: 320px;
+        max-height: 406px;
     }
 }
