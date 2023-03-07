@@ -1,8 +1,6 @@
 .places {
     padding: 0;
-    margin: 0;
-    margin: 0;
-    margin: auto;
+    margin: 0 auto;
     padding-top: 92px;
     max-width: 984px;
     max-height: 3392px;
@@ -11,8 +9,7 @@
 @media screen and (max-width:1024px) {
     .places {
         padding: 0;
-        margin: 0;
-        margin: 0 ;
+        margin: 0 auto;
         padding-top: 92px;
         max-width: 984px;
         max-height: 3392px;
@@ -33,8 +30,7 @@
 @media screen and (max-width:320px) {
     .places {
         padding: 0;
-        margin: 0 ;
-        margin: 0 ;
+        margin: 0 auto;
         padding-top: 64px;
         max-width: 320px;
         min-height: 5100px;
