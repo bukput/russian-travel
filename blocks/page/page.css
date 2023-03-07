@@ -4,3 +4,7 @@
     color: white;
     background-color: rgba(42, 44, 47, 1);
 }
+@font-face {
+    font-family:"Inter";
+    src: url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap");
+}
