@@ -50,3 +50,32 @@
         "image paragraph-bottom";
     }
 }
+@media screen and (max-width:320px) {
+    .place{
+        margin:0;
+        margin-top:50px;
+        padding:0;
+        display:grid;
+        gap:32px;
+        grid-template-columns: 1fr;
+        grid-template-areas:
+        "title"
+        "website"
+        "image"
+        "paragraph-top"
+        "paragraph-bottom";
+    }
+    .place:first-child{
+        margin:0;
+        padding:0;
+        display:grid;
+        gap:32px;
+        grid-template-columns:1fr;
+        grid-template-areas:
+        "title"
+        "website"
+        "image"
+        "paragraph-top"
+        "paragraph-bottom";
+    }
+}

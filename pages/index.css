@@ -25,6 +25,3 @@
 @import url(/blocks/website/__link/website__link.css);
 @import url(/blocks/place/__paragraph-top/place__paragraph-top.css);
 @import url(/blocks/place/__paragraph-bottom/place__paragraph-bottom.css);
-@import url(/blocks/cover/cover.css);
-@import url(/blocks/cover/__background/cover__background.css);
-@import url(/blocks/cover/__title/cover__title.css);
