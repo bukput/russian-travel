@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     margin: 0;
+    margin: auto;
     padding-top: 92px;
     max-width: 984px;
     max-height: 3392px;
@@ -36,6 +37,7 @@
         margin: 0 ;
         padding-top: 64px;
         max-width: 320px;
-        min-height: 4970px;
+        min-height: 5100px;
+        
     }
 }
