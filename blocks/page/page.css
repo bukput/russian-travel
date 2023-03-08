@@ -5,13 +5,13 @@
 }
 @font-face {
     font-family:"Inter";
-    src: url("/vendor/fonts/Inter-Regular.otf");
+    src: url("./vendor/fonts/Inter-Regular.otf");
 }
 @font-face {
     font-family:"Inter";
-    src: url("/vendor/fonts/Inter-Bold.otf");
+    src: url("./vendor/fonts/Inter-Bold.otf");
 }
 @font-face {
     font-family:"Inter";
-    src: url("/vendor/fonts/Inter-Black.otf");
+    src: url("./vendor/fonts/Inter-Black.otf");
 }
