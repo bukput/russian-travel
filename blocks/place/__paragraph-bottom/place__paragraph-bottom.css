@@ -11,13 +11,29 @@
     color: #FFFFFF;
     grid-area: paragraph-bottom;
 }
+@media screen and (max-width:1024px) {
+    .place__paragraph-bottom {
+        margin: 0;
+        padding: 0;
+        max-width: 456px;
+        max-height: 293px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 163%;
+        color: #FFFFFF;
+        grid-area: paragraph-bottom;
+    }
+}
 
 @media screen and (max-width:768px) {
     .place__paragraph-bottom {
         margin: 0;
         padding: 0;
         max-width: 352px;
-        max-height: 234px;
+        width:100%;
+        max-height: 293px;
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
@@ -32,7 +48,7 @@
         margin: 0 auto;
         padding: 0;
         max-width: 288px;
-        max-height: 312px;
+        max-height: 338px;
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;

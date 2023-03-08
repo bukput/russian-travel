@@ -1,15 +1,14 @@
 .footer__copyright {
     margin: 0;
     padding: 0;
-    margin-left: 533px;
+    margin-left: auto;
     min-width: 186px;
-    min-height: 16px;
+    height: 16px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
-    text-align: right;
     color: #FFFFFF;
 }
 
@@ -17,13 +16,14 @@
     .footer__copyright {
         margin: 0;
         padding: 0;
-        margin-left: 277px;
+        margin-left: auto;
+        min-width: 186px;
+        min-height: 16px;
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
         line-height: 16px;
-        text-align: right;
         color: #FFFFFF;
     }
 }
@@ -32,13 +32,14 @@
     .footer__copyright {
         margin: 0;
         padding: 0;
-        margin-left: 69px;
+        margin-left: auto;
+        min-width: 186px;
+        min-height: 16px;
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
         line-height: 16px;
-        text-align: right;
         color: #FFFFFF;
     }
 }
@@ -48,12 +49,13 @@
         margin: 0;
         padding: 0;
         margin-top: 48px;
+        width: 200px;
+        height: 16px;
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
         line-height: 16px;
-        text-align: right;
         color: #FFFFFF;
     }
 }
