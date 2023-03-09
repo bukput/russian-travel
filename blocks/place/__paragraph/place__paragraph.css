@@ -12,45 +12,26 @@
 }
 @media screen and (max-width:1024px) {
     .place__paragraph {
-        margin: 0;
-        padding: 0;
         max-width: 456px;
         max-height: 293px;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 18px;
-        line-height: 163%;
-        color: #FFFFFF;
     }
 }
 
 @media screen and (max-width:768px) {
     .place__paragraph {
-        margin: 0;
-        padding: 0;
         width: 352px;
         max-height: 390px;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
         font-size: 16px;
-        line-height: 163%;
-        color: #FFFFFF;
     }
 }
 
 @media screen and (max-width:320px) {
     .place__paragraph {
         margin: 0 auto;
-        padding: 0;
         max-width: 288px;
         max-height: 468px;
         font-family: 'Inter';
         font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 163%;
         color: #FFFFFF;
     }
 }
