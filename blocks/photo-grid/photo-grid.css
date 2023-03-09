@@ -49,12 +49,12 @@
         padding: 0;
         margin: 0;
         padding-top: 64px;
-        max-width: 288px;
+        width: 288px;
         max-height: 2724px;
         padding-left: 16px;
         padding-right: 16px;
         display: grid;
         grid-template-columns: repeat(1, auto);
-        gap: 16px;
+        gap: 12px;
     }
 }

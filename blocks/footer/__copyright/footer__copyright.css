@@ -3,7 +3,6 @@
     padding: 0;
     margin-left: auto;
     min-width: 186px;
-    height: 16px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -12,50 +11,8 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width:1024px) {
-    .footer__copyright {
-        margin: 0;
-        padding: 0;
-        margin-left: auto;
-        min-width: 186px;
-        min-height: 16px;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 16px;
-        color: #FFFFFF;
-    }
-}
-
-@media screen and (max-width:768px) {
-    .footer__copyright {
-        margin: 0;
-        padding: 0;
-        margin-left: auto;
-        min-width: 186px;
-        min-height: 16px;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 16px;
-        color: #FFFFFF;
-    }
-}
-
 @media screen and (max-width:320px) {
     .footer__copyright {
-        margin: 0;
-        padding: 0;
         margin-top: 48px;
-        width: 200px;
-        height: 16px;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 16px;
-        color: #FFFFFF;
     }
 }

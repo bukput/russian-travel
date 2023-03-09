@@ -4,48 +4,24 @@
     padding: 0;
     margin: 0 auto;
     margin-top:56px;
-    max-width: 1280px;
-    max-height: 1005px;
+    max-width: 984px;
 }
 
 @media screen and (max-width:1024px) {
     .lead {
-        display: flex;
-        flex-direction: column;
-        padding: 0;
-        margin: 0;
-        padding-top: 48px;
-        padding-right: 48px;
-        padding-left: 48px;
-        align-self: center;
         max-width: 928px;
-        max-height: 962px;
+        margin-top:48px;
     }
 }
 
 @media screen and (max-width:768px) {
     .lead {
-        display: flex;
-        flex-direction: column;
-        padding: 0;
-        margin: 0 auto;
-        padding-top: 48px;
-
         max-width: 768px;
-        max-height: 862px;
     }
 }
 
 @media screen and (max-width:320px) {
     .lead {
-        padding:0;
-        margin:0;
-        margin:auto;
-        display: flex;
-        flex-direction: column;
         max-width: 320px;
-        width:100%;
-        min-height:406px;
-        margin-top:48px;
     }
 }
