@@ -3,7 +3,6 @@
     padding: 0;
     max-width: 484px;
     max-height: 203px;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -30,8 +29,6 @@
         margin: 0 auto;
         max-width: 288px;
         max-height: 468px;
-        font-family: 'Inter';
-        font-style: normal;
         color: #FFFFFF;
     }
 }

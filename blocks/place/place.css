@@ -30,10 +30,6 @@
         margin-top: 73px;
         max-height: 581px;
         gap: 28px;
-        grid-template-areas:
-            "title website"
-            "image paragraph"
-            "image paragraph";
     }
 
     .place:first-child {
