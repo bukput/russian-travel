@@ -3,9 +3,3 @@
     text-decoration: underline;
     color: white;
 }
-
-.header__lang-link_active:last-child {
-    margin: 0;
-    text-decoration: underline;
-    color: white;
-}
