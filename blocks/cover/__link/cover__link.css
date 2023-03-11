@@ -13,7 +13,7 @@
     text-decoration: none;
     color: #FFFFFF;
   }
-  .cover__link:before {
+  .cover__link::before {
     content: '';
     display: block;
     position: absolute;
@@ -28,7 +28,7 @@
     z-index: -1;
     transition: opacity 200ms ease-in-out;
   }
-  .cover__link:hover:before {
+  .cover__link:hover::before {
     opacity: 0.8;
   }
   
